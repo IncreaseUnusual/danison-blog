@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structures on Danison N</title>
+    <link>http://localhost:1313/tags/data-structures/</link>
+    <description>Recent content in Data Structures on Danison N</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Nov 2025 23:58:06 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monotonic Stack: Explained with Example</title>
+      <link>http://localhost:1313/posts/first_post/</link>
+      <pubDate>Tue, 04 Nov 2025 23:58:06 +1100</pubDate>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;monotonic stack&lt;/strong&gt; is a stack that maintains its elements in either increasing or decreasing order. It&amp;rsquo;s commonly used to solve problems like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Next Greater Element&lt;/li&gt;&#xA;&lt;li&gt;Daily Temperatures&lt;/li&gt;&#xA;&lt;li&gt;Largest Rectangle in Histogram&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;problem-statement&#34;&gt;&#xA;  Problem Statement&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#problem-statement&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Given an array \( \text{nums} \), return an array \( \text{res} \) where \( \text{res}[i] \) is the index of the next greater number to the right of \( \text{nums}[i] \). If none, return \(-1\).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
